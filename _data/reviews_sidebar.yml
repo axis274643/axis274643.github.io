@@ -1,0 +1,25 @@
+- text: Fall 2025
+  id: Fall-2025
+- text: Summary Statistics
+  id: Summary-Statistics
+- text: Overall Rating
+  id: overall-rating
+- text: Course Reviews
+  id: Course-Reviews
+  children:
+    - text: 07-128 First Year Immigration
+      id: course-07-128
+    - text: 15-122 Principles of Imperative Computation
+      id: course-15-122
+    - text: 15-151 Mathematical Foundations for Computer Science
+      id: course-15-151
+    - text: 21-241 Matrices and Linear Transformations
+      id: course-21-241
+    - text: 33-151 Matter and Interactions
+      id: course-33-151
+    - text: 57-121 Piano Elective Studio
+      id: course-57-121
+    - text: 99-101 Core@CMU
+      id: course-99-101
+    - text: More Summary Statistics
+      id: More-Summary-Statistics

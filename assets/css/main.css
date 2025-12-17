@@ -1,0 +1,97 @@
+/* Remove theme width restrictions, add 2-inch side padding (~64px) */
+.wrapper, .container {
+  max-width: none !important;
+  width: 100% !important;
+  padding: 0 64px; /* ~2 inches on left and right */
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+/* Flex layout: sidebar on left, content right */
+.layout {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Sidebar styling */
+.sidebar {
+  width: 200px;             /* slightly narrower to fit viewport */
+  position: sticky;
+  top: 1rem;
+  height: calc(100vh - 2rem);
+  padding: 1rem;
+  background: #f7f7f7;
+  overflow-y: auto;
+  font-size: 0.85rem;
+  flex-shrink: 0;
+  margin-left: 0;
+  box-sizing: border-box;
+}
+
+/* Nested sidebar lists */
+.sidebar ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+
+.sidebar ul ul {
+  margin-left: 1rem;
+}
+
+/* Sidebar links */
+.sidebar a {
+  display: block;
+  text-decoration: none;
+  color: #333;
+  padding: 0.2rem 0;
+}
+
+.sidebar a.active {
+  font-weight: bold;
+  color: #007acc;
+}
+
+/* Content area */
+.content {
+  flex: 1;                 /* take remaining space */
+  margin-left: 2rem;       /* space between sidebar and content */
+  max-width: none;
+  padding: 2rem 0;         /* vertical padding */
+  font-size: 0.95rem;
+  line-height: 1.6;
+  box-sizing: border-box;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+.content h1 {
+  color: #222;
+}
+
+.content h2 {
+  color: #005fa3;
+}
+
+.content h3 {
+  color: #007acc; /* highlight */
+}
+
+/* Style all h3 headings */
+.content h3 {
+  color: #007acc;       /* blue text, adjust as needed */
+  font-weight: bold;
+  background-color: #f0f8ff; /* optional: light background */
+  padding: 0.2rem 0.5rem;    /* add some padding */
+  border-left: 4px solid #007acc; /* optional left border */
+  border-radius: 3px;          /* slightly rounded edges */
+  margin-top: 1.5rem;
+  margin-bottom: 0.8rem;
+}

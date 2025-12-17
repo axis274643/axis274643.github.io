@@ -1,0 +1,52 @@
+---
+layout: page
+---
+
+<div class="layout">
+  <aside class="sidebar">
+    <nav>
+      <ul>
+        {% assign items = site.data.reviews_sidebar %}
+        {% for item in items %}
+          <li>
+            <a href="#{{ item.id }}">{{ item.text }}</a>
+            {% if item.children %}
+              <ul>
+                {% for child in item.children %}
+                  <li><a href="#{{ child.id }}">{{ child.text }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </aside>
+
+  <div class="content">
+    {{ content }}
+  </div>
+</div>
+
+<!-- JS for active link highlight -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const sidebarLinks = document.querySelectorAll(".sidebar a");
+  const headingElements = Array.from(sidebarLinks).map(a => document.getElementById(a.getAttribute("href").substring(1)));
+
+  function onScroll() {
+    let index = headingElements.length - 1;
+    for (let i = 0; i < headingElements.length; i++) {
+      if (window.scrollY < headingElements[i].offsetTop - 20) {
+        index = i - 1;
+        break;
+      }
+    }
+    sidebarLinks.forEach(link => link.classList.remove("active"));
+    if (index >= 0) sidebarLinks[index].classList.add("active");
+  }
+
+  window.addEventListener("scroll", onScroll);
+  onScroll(); // highlight on load
+});
+</script>
