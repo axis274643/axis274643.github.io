@@ -56,7 +56,7 @@ Total credits: 53-56
 - **Academics (quality)**: 9/10 - it's CMU, the professors are pretty good and the content taught is hard, but not unlearnable if you put the effort and time in. There are lots of resources to help you including office hours, lecture notes, recitations, friends, taking notes, online forums, etc
 - **Academics (enjoyment)**: 6.5/10 - so much work omg and it's very stressful at a lot of times because the classes are really difficult and have a lot of problem sets (for all four of the technical classes) and sometimes weeks are just studying for midterms, requires so much focus and concentration in class. I did enjoy what we learned in class though, and the content being challenging is a good thing. I just had to get used ot it first. 
 - **Social**: 8/10 - Before college my greatest worry was making friends I could laugh and live with and feel comfortable around, I think in college I was able to just be myself and care less about what other people think and eventually I've interacted with a lot of people and know who I enjoy being around. 
-- **Health**: 7/10 - mentally there was quite a bit of stress about having to do work, but that got better throughout the semester as I got used to it so that all that was left was to just do it. Physically, I think I ate enough every day and slept a fair amount, although a lot of times I was falling asleep in class and would wake up every 5 minutes to jot down notes and just go back to dozing off. Probably did not get enough exercise, but being in college I did walk a ton (averaging 11,000 steps a day) and tried to go biking/running/somewhere for fun sometimes\\
+- **Health**: 7/10 - mentally there was quite a bit of stress about having to do work, but that got better throughout the semester as I got used to it so that all that was left was to just do it. Physically, I think I ate enough every day and slept a fair amount, although a lot of times I was falling asleep in class and would wake up every 5 minutes to jot down notes and just go back to dozing off. Probably did not get enough exercise, but being in college I did walk a ton (averaging 11,000 steps a day) and tried to go biking/running/somewhere for fun sometimes
 
 
 ## Course Reviews 
@@ -176,9 +176,9 @@ Mehhhh online course I just tried to get through as fast as possible. Probably c
 
 ### More Summary Statistics
 {: #More-Summary-Statistics}
-GPA: 4.0
+GPA: 4.0\\
 Average course rating: 7/10 (unweighted), 7.61 (weighted by credits)\\
-In-class hours/week: 22 hours/week
+In-class hours/week: 22 hours/week\\
 Total hours/week: 55 hours/week\\
 Buggy: avg 4 hours/week\\
 C++: 2 hours/week\\
@@ -188,9 +188,9 @@ Total hours/week used = 98\\
 Total waking hours/week = (24-7) * 7 = 119\\
 Free time left = 23 hours/week = ~3-4 hours/day
 
-Names collected: ~100
-Names on recall: ~70
-People I've talked to personally: ~30
+Names collected: ~100\\
+Names on recall: ~70\\
+People I've talked to personally: ~30\\
 Friends: ~10-15
 
 ### Reflection
