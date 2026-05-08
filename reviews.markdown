@@ -5,8 +5,10 @@ title: CMU Semester Reviews
 permalink: /cmulife/
 ---
 
-# Fall 2025 
-{: #Fall-2025 }
+
+
+# Spring 2025 
+{: #Spring-2025 }
 
 ## Summary Statistics: 
 {: #Summary-Statistics }
