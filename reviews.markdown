@@ -10,7 +10,7 @@ permalink: /cmulife/
 {: #Spring-2025 }
 
 ## Summary Statistics: 
-{: #Summary-Statistics }
+{: #Summary-Statistics-2 }
 
 ### Courses taken: 
 - 02-180 Great Ideas in Computational Biology I (5 units)
@@ -48,7 +48,7 @@ Total units: 51
 - Mental: Lots of work everyday, studying, stress from overthinking social things sometimes, internships argh argh bro
 
 ## Overall Semester 1 Rating: 7.5/10
-{: #overall-rating }
+{: #overall-rating-2 }
 
 ### Breakdown
 - **Academics (quality)**: 9/10 - it's CMU, the professors are pretty good and the content taught is hard, but not unlearnable if you put the effort and time in. There are lots of resources to help you including office hours, lecture notes, recitations, friends, taking notes, online forums, etc
@@ -58,7 +58,7 @@ Total units: 51
 
 
 ## Course Reviews 
-{: #Course-Reviews }
+{: #Course-Reviews-2 }
 
 ### 02-180 Great Ideas in Computational Biology I
 {: #course-02-180 }
@@ -161,7 +161,7 @@ I wanted to try out private piano lessons since I wanted to keep piano/music in 
 
 
 ### More Summary Statistics
-{: #More-Summary-Statistics}
+{: #More-Summary-Statistics-2}
 GPA: 4.0\\
 Average course rating: 7/10 (unweighted), 7.61 (weighted by credits)\\
 In-class hours/week: 22 hours/week\\
@@ -188,7 +188,7 @@ If I were to do anything differently... probably worry less, haha. I felt guilty
 {: #Fall-2025 }
 
 ## Summary Statistics: 
-{: #Summary-Statistics }
+{: #Summary-Statistics-1 }
 
 ### Courses taken: 
 - 07-128 First Year Immigration (3 credits)
@@ -229,7 +229,7 @@ Total credits: 53-56
 - Mental: Lots of work everyday, studying, stress from overthinking social things sometimes, internships argh argh bro
 
 ## Overall Semester 1 Rating: 7.5/10
-{: #overall-rating }
+{: #overall-rating-1 }
 
 ### Breakdown
 - **Academics (quality)**: 9/10 - it's CMU, the professors are pretty good and the content taught is hard, but not unlearnable if you put the effort and time in. There are lots of resources to help you including office hours, lecture notes, recitations, friends, taking notes, online forums, etc
@@ -239,7 +239,7 @@ Total credits: 53-56
 
 
 ## Course Reviews 
-{: #Course-Reviews }
+{: #Course-Reviews-1 }
 
 ### 07-128 First Year Immigration
 {: #course-07-128 }
@@ -354,7 +354,7 @@ Mehhhh online course I just tried to get through as fast as possible. Probably c
 
 
 ### More Summary Statistics
-{: #More-Summary-Statistics}
+{: #More-Summary-Statistics-1}
 GPA: 4.0\\
 Average course rating: 7/10 (unweighted), 7.61 (weighted by credits)\\
 In-class hours/week: 22 hours/week\\

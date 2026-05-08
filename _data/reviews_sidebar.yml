@@ -1,11 +1,11 @@
 - text: Spring 2025
   id: Spring-2025
 - text: Summary Statistics
-  id: Summary-Statistics
+  id: Summary-Statistics-2
 - text: Overall Rating
-  id: overall-rating
+  id: overall-rating-2
 - text: Course Reviews
-  id: Course-Reviews
+  id: Course-Reviews-2
   children:
     - text: 02-180 Great Ideas in Computational Biology I
       id: course-02-180
@@ -20,15 +20,15 @@
     - text: 57-672 Chamber Music: Woodwind and Mixed
       id: course-57-672
     - text: More Summary Statistics
-      id: More-Summary-Statistics
+      id: More-Summary-Statistics-2
 - text: Fall 2025
   id: Fall-2025
 - text: Summary Statistics
-  id: Summary-Statistics
+  id: Summary-Statistics-1
 - text: Overall Rating
-  id: overall-rating
+  id: overall-rating-1
 - text: Course Reviews
-  id: Course-Reviews
+  id: Course-Reviews-1
   children:
     - text: 07-128 First Year Immigration
       id: course-07-128
@@ -45,4 +45,4 @@
     - text: 99-101 Core@CMU
       id: course-99-101
     - text: More Summary Statistics
-      id: More-Summary-Statistics
+      id: More-Summary-Statistics-1
