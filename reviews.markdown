@@ -91,7 +91,7 @@ Nickname: Functional, 150\\
 Professors: Michael Erdmann and Dilsun Kaynar\\
 Units: 12\\
 In-class: 4.5 hours/week\\
-Homework: avg 6-9 hours/week\\
+Homework: avg 6-9 hours/week
 
 **Total work: 10-13 hours/week**\\
 **Difficulty: 8.5/10**\\
@@ -155,7 +155,7 @@ Total hours/week: 59 hours/week (first half but it's probably actually lighter l
 Gym: avg 5 hours/week
 Buggy: avg 5-9 hours/week (second half)\\
 C++: 2 hours/week (i skipped like 50-70% of the meetings though...)\\
-SCC: 1 hour/week
+SCC: 1 hour/week\\
 Eating/walking/routine: 5 hours/day * 7 = 35 hours/week
 
 Total hours/week used = ~102 (only 3 more than last semester? idk I felt much more busy this semester, the math probably not super accurate lol)\\
