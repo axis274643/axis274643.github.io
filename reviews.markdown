@@ -148,7 +148,7 @@ I really enjoyed practicing and rehearsing with Howard and Professor Houlik. I'v
 
 ### More Summary Statistics
 {: #More-Summary-Statistics-2}
-GPA: errr idk yet\\
+GPA: 4.0 (Omg Clive had mercy on me I actually thought I was gonna get a B, but I also studied sooo hard like 25-30 hours of 266... I guess it paid off)\\
 Average course rating: 6.75/10 (unweighted), 6.56 (weighted by units)\\
 In-class hours/week: 21 hours/week (first half) - 16.5 hours/week (second half)\\
 Total hours/week: 59 hours/week (first half but it's probably actually lighter like 53-56 maybe, some of the technical classes picked up a lot more later in the semester) - 49 hours/week (second half but it's probably more like 55??? idek omg maybe I was just chopped second half or the work was that unenjoyable)\\
