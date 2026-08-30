@@ -1,5 +1,18 @@
-- text: Spring 2025
-  id: Spring-2025
+- text: Summer 2026
+  id: Summer-2026
+- text: Summary Statistics
+  id: Summary-Statistics-3
+- text: Overall Rating
+  id: overall-rating-3
+- text: Course Reviews
+  id: Course-Reviews-3
+  children:
+    - text: 15-251 Great Ideas in Theoretical Computer Science
+      id: course-15-251
+    - text: More Summary Statistics
+      id: More-Summary-Statistics-3
+- text: Spring 2026
+  id: Spring-2026
 - text: Summary Statistics
   id: Summary-Statistics-2
 - text: Overall Rating
