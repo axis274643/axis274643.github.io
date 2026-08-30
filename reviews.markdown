@@ -5,9 +5,96 @@ title: CMU Semester Reviews
 permalink: /cmulife/
 ---
 
+# Summer 2026
+{: #Summer-2026 }
 
-# Spring 2025 
-{: #Spring-2025 }
+## Summary Statistics: 
+{: #Summary-Statistics-3 }
+
+### Courses taken: 
+- 15-251 Great Ideas in Theoretical Computer Science (12 units)
+
+Total units: 12
+
+### Extracurriculars:
+- 15-213 Teaching Assistant
+- Robotics Research
+
+### Hobbies/recreation:
+- Cooking
+- Biking
+- Gym
+- PSO Concerts
+- Making desserts with Kat and Howard
+- Rockclimbing
+- Piano w Josh/jazz jamming
+- Ballroom Dance
+- Bingsu with Mirabelle
+- Lollapalooza/Michigan
+- Drawing
+
+### Health:
+- Orange/banana/yogurt/bread for breakfast; Lunch; Dinner (2 meals a day average)
+- Sleep around 1:00 - 2:00 am average; Wake up 8:30 - 9:00 am average; 6.5 - 8 hours average
+- Physical Exercise - gym count = 1-3 times a week = around 20 times
+- Mental: I felt pretty burnt out and really sad about not having time to do anything fun like play piano or draw or relax or cook or bike or touch grass while I was doing research. After dropping research, I think I was still mentally tired and often too low on energy/motivation to socialize/be around people so I spent more time alone and it was a little bit comforting. But I also felt bad. 
+
+## Overall Summer Semester 1 Rating: 7.5/10
+{: #overall-rating-3 }
+
+### Breakdown
+- **Academics (quality)**: 9/10 - I loved the summer course I took and the professors that taught it, they were very engaging and cared about the students' learning. I also loved the homework review sessions with TAs who were all awesome in recitation. The midterms were difficult but helpful in giving me feedback on what I need to do better on. 
+- **Academics (enjoyment)**: - 9/10 - The class was so interesting and I enjoyed the homework, it was challenging but in a good way. I think I prefer this math approach to CS over the coding/programming/software side. It makes me think about interesting puzzles/problems that don't seem as frustrating with debugging or machine-like. Abstract?
+- **Social**: 5/10 - I sorta avoided people a bit, I'm not sure... I didn't reach out much at all to others, which is my fault, but I didn't feel the need to want to sometimes on top of just feeling too tired/lazy/burnt to do it. Other people organized social activities though and they were fun, like playing music, biking, rock climbing, hotpot/potluck, cooking together, etc. I wish I had more energy to be cheerful and jumpy around people though. Or maybe I'm just tired as I'm writing this so it seems worse than it actually was haha. I also went to the gym and did leetcode/study with people sometimes but most of the time I did the work by myself. 
+- **Health**: 7/10 - I exercised by biking to and from school 2-3 times a week and went to the gym/climbing gym sometimes, and I think I can do a pullup now? Yayyy. I was cooking for myself pretty much the entire summer, basically making a grocery trip every week to Trader Joe's or Panda Market and getting like $60 worth of stuff. Every meal I have some kind of protein, whether chicken breast, eggs, salmon, pork tenderloin, beef sirloin, etc, and then I also have some kind of vegetable. I try to make sure I have a good balance of protein, veggies, and carbs. I ate a lot of rice and egg noodles from a friend. I love that I learned to cook but often it would take 2 hours a day for just dinner which I thought was way too much time and got tiring sometimes. It was fun to learn a new skill and try new dishes/ingredients though. Mentally I was still burnt out? But I don't think I did as much work as first semester for sure, and didn't have to force myself to do work as much. But I was learning how to live on my own and I feel like that took a lot of energy, especially the leasing fiasco. Gahhhhh help I still don't have direction in my life and doubt whether I should be at CMU CS taking these classes etc... unfortunate
+
+
+## Course Reviews 
+{: #Course-Reviews-3 }
+
+### 15-251 Great Ideas in Theoretical Compputer Sicence
+{: #course-15-251 }
+Nickname: TCS\\
+Professors: Anil Ada and Rose Silver\\
+Units: 12\\
+In-class: 6-7.5 hours/week\\
+Studying/Textbook: 2-3 hours/week
+Homework: 8-12 hours/week\\
+**Total work: 16-22 hours/week**\\
+**Difficulty: 7/10**\\
+**Rating: 9/10**\\
+Probably my favorite class at CMU so far, maybe my high view of this is because I had the time to actually appreciate it though since I'm not sure I'd feel the same way if I took this class over the semester with 3 other technical classes. But I did enjoy it, especially topics like graphs, turing machines, manipulation of information, P vs. NP, and cryptography were all super interesting to think about. Professor Silver was super fun and friendly/encouraging, and Professor Ada was such a great lecturer and had such an experienced aura. He's so cool and seems approachable and I wish I went to his OH more to have conversations more. I really need to do that next semester... ahhhh
+
+### More Summary Statistics
+{: #More-Summary-Statistics-3}
+GPA: 4.0 (Close call again, needed 90% on the final for it, i should really stop caring about this though... high school is far past me)\\
+Average course rating: 9/10 (unweighted), 9 (weighted by units)\\
+15-251 hours/week: 16-22\\
+15-213 TA hours/week: 12 (total 143.5 hours over the summer)\\
+Robotics Research hours/week: 6-18 (10 was the goal, i quit after a month)
+Total hours/week: 42 hours/week (with research) - 32 hours/week (without research)\\
+Gym: avg 2 hours/week
+Leetcode: avg 2 hours/week
+Cooking: avg 10-14 hours/week \\
+Eating/walking/routine: 5 hours/day * 7 = 35 hours/week
+
+Total hours/week used = ~82-92 (not that many...?)\\
+Total waking hours/week = (24-7) * 7 = 119\\
+Free time left = 27-37 hours/week = ~4-5 hours/day
+
+Names collected: ~1...?\\
+Names on recall: ~100 (total...? can i even remember that much)\\
+People I've talked to personally: ~12?? (i'm deleting this section)\\
+Friends: ~6-12 (idk)
+
+### Reflection
+Wow, this line is still true, especially while I was also juggling research: "Often times I would have a longing to just do nothing and lie on the grass and stare at the sky and have nothing to think about. I would also long to have the time to draw or read or play piano and couldn't wait for everything to be over." but at the same I had much more free time than last semester? Possibly I exaggerated numbers last semester though because that's how it felt? I'm not sure haha, sorry. I'm not a reliable narrator. I'm so scared for internship search next semester, and my parents also want me to take advantage of the CMU environment more. Like talking to professors, asking about their research, and stuff like that more. But I'm not sure I'll have the time and everything, as much as I know that's gotta be so good for me. They told me I probably focus too much on the academics, like the homework and grades, and I should think more about making connections and networking more? (sad face). I'm excited for my classes next sem though, I think for the first time they're mostly what interests me, and more creative, rather than just CS core spamming. Graphics, 3D animation, intro music tech (will drop if it's too much though), jazz improv, astrophysics. Only one I'm neutral towards is 15-210 algorithms, and I'm scared of it, but hopefully it'll be okay. I'm also doubtful taking all of these "fun/hobby/interest" classes is a good choice since all my friends seem to be working towards their CS technicals, like AI/ML, Systems, Databases, etc... i should just stop worrying though, things will be okay? I just don't want to waste anything...
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# Spring 2026
+{: #Spring-2026 }
 
 ## Summary Statistics: 
 {: #Summary-Statistics-2 }
@@ -43,7 +130,7 @@ Total units: 51
 - Physical Exercise - gym count = 3-4 times a week (pull, push, legs, core, sports/cardio) = around 50 times, ran with Stephen Zhang several times, biked once, basketball 2 times, pickleball once, soccer once, swimming once, tennis once, rockclimbing 4-5 times
 - Mental: SOOOOOOO MUCH WORK (crying) lowkey made me question my life, I was scheduling the hell out of my google calendar literally every hours was spent studying or used in someway (I actually had almost no time to waste or i would probably fall behind) so it was pretty stressful honestly, I had very little time to properly socialize with anyone outside of studying and I felt really bad and didn't really take care of my social relationships sometimes (there were a few moments where I messed up but I also think they were valuable learning opportunities and helped me learn how to navigate people), cold emailing for research was argh but at least I did it. I think one thing I noticed was that at times I felt maybe so stressed or burnt out from working all the time and not having enough time to myself that I wanted to withdraw from being around other people at all, probably just to decrease my mental load. I felt like I had no breathing room, and socializing people sometimes might take too much time and offset me from my super strict schedule. Other times it was more flexible and I could afford to get sidetracked but this semester I was busy enough that I couldn't afford getting sidetracked so often without feeling more stressed/insane lol.
 
-## Overall Semester 1 Rating: 6.5/10
+## Overall Semester 2 Rating: 6.5/10
 {: #overall-rating-2 }
 
 ### Breakdown
