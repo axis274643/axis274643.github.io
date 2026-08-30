@@ -101,8 +101,8 @@ Wow, this line is still true, especially while I was also juggling research: "Of
 
 ### Courses taken: 
 - 02-180 Great Ideas in Computational Biology I (5 units)
-- 15-122 Introduction to Computer Systems (12 units)
-- 15-151 Principles of Functional Programming (12 units)
+- 15-213 Introduction to Computer Systems (12 units)
+- 15-150 Principles of Functional Programming (12 units)
 - 21-266 Vector Calculus using Matrix Algebra (10 units)
 - 57-672 Chamber Music: Woodwind and Mixed (3 units)
 - 76-101 Interpretation and Argument (9 units)
