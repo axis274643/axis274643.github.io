@@ -104,8 +104,8 @@ Wow, this line is still true, especially while I was also juggling research: "Of
 - 15-122 Introduction to Computer Systems (12 units)
 - 15-151 Principles of Functional Programming (12 units)
 - 21-266 Vector Calculus using Matrix Algebra (10 units)
-- 76-101 Interpretation and Argument (9 units)
 - 57-672 Chamber Music: Woodwind and Mixed (3 units)
+- 76-101 Interpretation and Argument (9 units)
 
 Total units: 51
 
@@ -203,21 +203,6 @@ Homework: avg 5-7 hours/week
 Erm. This class. I heard before from some upperclassman that Clive, the author of the Concepts textbook, was evil. At first, I didn't believe them. He was a wonderful lecturer, and he was so silly and made cute drawings and had really pretty blue eyes. I think he's a great person, and he seems passionate and helpful and everything. However, I see now that the evil comes from... midterms? Problem sets? We had four midterms for this class, so every few weeks I had to study and do a ton of review to prepare. The midterms were not forgiving at all, the problems was not insanely difficult but the points were taken off for a lot of details. I thought 1 + 2 was 2 once and that was -1 point. The the problems were also quite hard sometimes, and it was definitely a time crunch. The problem sets were especially challenging and tedious at times. Most of this class was computation rather than proof though. I don't know why, I thought I was good at math but after taking this class it feels like I have quite some difficulty learning the concepts and formulas and the variables becoming alphabet soup in my head. Anyways, this might be the first class I get a B in. Interesting experience, I guess. 
 
 
-### 76-101 Interpretation and Argument
-{: #course-76-101 }
-Nickname: FYW, first year writing\\
-Professor: Kat Myers\\
-Units: 9\\
-In-class: 3 hours/week\\
-Homework: avg 3-5 hours/week
-- Writing essays i guess, data collection, stuff = 3-5 hours/week
-
-**Total work: 6-8 hours/week**\\
-**Difficulty: 6/10**\\
-**Rating: 5/10**\\
-This course gave off the vibes of a high school LA class from the very first day, with the slide deck themed and attendance question and everything. I think it was a nice contrast to my CS/math technicals---a class where I can actually just take a breather and not worry about me not intaking the info. I'm really not a fan of writing essays, so the homework was always like "alright, let's get this over with." rather than being enjoyable. We had to write a contribution paper at the end, and I did think my topic was quite interesting though (the differences in personality expression in people with and without social anxiety in online and offline communicatino environments) so I quite enjoyed collecting survey responses and intervewing people and analyzing the data collected. Just writing a CGA and research proposal and results/discussion and everything was sorta tedious. Especially tedious was reading through sources and a ton of papers trying to find stuff relevant to my research question... Overall sorta chill, (more work than I thought it would be though) and yeah. Useful to know how to write a research paper for the future I guess. 
-
-
 ### 57-672 Chamber Music: Woodwind and Mixed
 {: #course-57-672 }
 Nickname: piano, rehearsal with Howard\\
@@ -231,6 +216,21 @@ Final Student Saxophone Recital: Very fun!! So many of my friends came to watch 
 **Difficulty: 7/10**\\
 **Rating: 8.5/10**\\
 I really enjoyed practicing and rehearsing with Howard and Professor Houlik. I've been wanting to try chamber music and love playing piano in ensembles, and I've quite missed it in college since I used to do it a lot in high school. We played Ballade for Saxophone and Piano by Henry Tomasi throughout the semester, and I practiced the piece for 10-20 hours over winter break in preparation. Over the semester, it was quite hard to find time to practice consistently, so I would typically practice two hours on the weekend (typically Saturday or Sunday morning, sometimes after buggy lol) and then also Tuesday right before we rehearse, for a total of around 2-3 hours/week. We would rehearse on Tuesday everyday for around 40 min - 1 hour since I didn't have a morning class that day, and then we have a lesson with Professor on Thursday or Friday for about an hour. I really enjoyed Professor Houlik's teaching, I found it very whimsical and he largely focused on my interpretation of the piece through the piano rather than technique (though he probably wasn't super familiar with the details of piano). He would often describe imagery and scenic or fun visuals that the music invokes, for example a beautiful French countryside, drinking the fresh water at rivers, a grand ballroom with ladies dancing, and confident swaying during the blues part. The piece had many different unique phrases, each with a different style or atmosphere, so it was very fun to play and change the mood. He showed me that the music expressed a naive, innocent, optimistic perspective which I related to and really enjoyed playing along with Howard. Overall, it was very fun and kept my soul alive as I toiled away at my programming assignments and problem sets. Practicing was sorta stressful though, sometimes I felt like I didn't practice enough to play the piece very well lol. But I think it turned out wonderfully. 
+
+
+### 76-101 Interpretation and Argument
+{: #course-76-101 }
+Nickname: FYW, first year writing\\
+Professor: Kat Myers\\
+Units: 9\\
+In-class: 3 hours/week\\
+Homework: avg 3-5 hours/week
+- Writing essays i guess, data collection, stuff = 3-5 hours/week
+
+**Total work: 6-8 hours/week**\\
+**Difficulty: 6/10**\\
+**Rating: 5/10**\\
+This course gave off the vibes of a high school LA class from the very first day, with the slide deck themed and attendance question and everything. I think it was a nice contrast to my CS/math technicals---a class where I can actually just take a breather and not worry about me not intaking the info. I'm really not a fan of writing essays, so the homework was always like "alright, let's get this over with." rather than being enjoyable. We had to write a contribution paper at the end, and I did think my topic was quite interesting though (the differences in personality expression in people with and without social anxiety in online and offline communicatino environments) so I quite enjoyed collecting survey responses and intervewing people and analyzing the data collected. Just writing a CGA and research proposal and results/discussion and everything was sorta tedious. Especially tedious was reading through sources and a ton of papers trying to find stuff relevant to my research question... Overall sorta chill, (more work than I thought it would be though) and yeah. Useful to know how to write a research paper for the future I guess. 
 
 
 ### More Summary Statistics
