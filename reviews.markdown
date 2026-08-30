@@ -52,7 +52,7 @@ Total units: 12
 ## Course Reviews 
 {: #Course-Reviews-3 }
 
-### 15-251 Great Ideas in Theoretical Compputer Sicence
+### 15-251 Great Ideas in Theoretical Computer Sicence
 {: #course-15-251 }
 Nickname: TCS\\
 Professors: Anil Ada and Rose Silver\\
